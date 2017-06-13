@@ -6,8 +6,14 @@ import java.util.List;
  */
 public class Main {
     public static void main(String[] args) {
-        Q50 q = new Q50();
-        System.out.println(q.myPow(8.01, 3));
+
+        int min = 10;
+        int max = 15;
+        int ans = 0;
+        int tmp = 16;
+
+        ans = (tmp >= max) ? Integer.toString(min) : Integer.toString(max);
+
 
     }
 }
