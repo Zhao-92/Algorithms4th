@@ -7,12 +7,12 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
 
-        int min = 10;
-        int max = 15;
-        int ans = 0;
-        int tmp = 16;
-
-        ans = (tmp >= max) ? Integer.toString(min) : Integer.toString(max);
+        String str = "www.test.com/aaa/bbb/ccc/a1.b2.c3.d4";
+        System.out.println(str.substring(0, str.indexOf('t')));
+        String ans = str.substring(str.lastIndexOf('/') + 1);
+        System.out.println(ans);
+        String[] tmp = ans.split("\\.");
+        System.out.println(tmp.length);
 
 
     }
