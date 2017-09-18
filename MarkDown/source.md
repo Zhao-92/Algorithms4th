@@ -16,7 +16,7 @@
 
 ### **前端入门**
 
-<a ref="https://github.com/ruanyf/jstraining"> Github 前端入门教程 </a>
+<a href="https://github.com/ruanyf/jstraining"> Github 前端入门教程 </a>
 
 
 
@@ -30,7 +30,9 @@
 
 <a ref="http://www.ruanyifeng.com/blog/2015/03/react.html">React入门实例</a>
 
+[React入门教程](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html)
 
+https://hulufei.gitbooks.io/react-tutorial/content/introduction.html
 
 
 

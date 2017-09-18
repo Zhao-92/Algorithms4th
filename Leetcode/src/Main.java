@@ -1,19 +1,48 @@
+/**
+ * Alipay.com Inc.
+ * Copyright (c) 2004-2017 All Rights Reserved.
+ */
+
 import java.util.ArrayList;
+import java.util.EmptyStackException;
 import java.util.List;
 
 /**
- * Created by ethan.zcl on 2017/6/8.
+ * @Author Created by Xiaoqi.zcl
+ * @Date 2017/8/20
+ * @Time 上午10:50
  */
+
 public class Main {
+    static double test1(int n, List<String> error) {
+        try {
+            return 10/n;
+        } catch (Exception e) {
+            String err = new String("test1");
+            error.add(err);
+            System.out.println("exception in test");
+            e.printStackTrace();
+            return 0.1f;
+
+            StringBuilder sb = new StringBuilder();
+
+        }
+    }
+
     public static void main(String[] args) {
 
-        String str = "www.test.com/aaa/bbb/ccc/a1.b2.c3.d4";
-        System.out.println(str.substring(0, str.indexOf('t')));
-        String ans = str.substring(str.lastIndexOf('/') + 1);
+        double ans = 0;
+        List<String> error = new ArrayList<>();
+        try {
+            ans = test1(0, error);
+
+            System.out.println("test finish");
+        } catch (Exception e) {
+            System.out.println("exception in main");
+            e.printStackTrace();
+        }
+
         System.out.println(ans);
-        String[] tmp = ans.split("\\.");
-        System.out.println(tmp.length);
-
-
+        System.out.println(error.get(0));
     }
 }
