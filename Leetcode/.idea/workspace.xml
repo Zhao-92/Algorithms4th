@@ -36,6 +36,7 @@
             <state relative-caret-position="390">
               <caret line="357" column="0" lean-forward="false" selection-start-line="357" selection-start-column="0" selection-end-line="357" selection-end-column="0" />
               <folding>
+                <element signature="e#0#14202#0" expanded="false" />
                 <element signature="docComment;class#Lock#0" expanded="false" />
                 <element signature="docComment;method#lock#0;class#Lock#0" expanded="false" />
                 <element signature="docComment;method#lockInterruptibly#0;class#Lock#0" expanded="false" />
@@ -48,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReentrantLock.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReentrantLock.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -87,9 +88,17 @@
             <state relative-caret-position="2970">
               <caret line="235" column="6" lean-forward="false" selection-start-line="235" selection-start-column="6" selection-end-line="235" selection-end-column="6" />
               <folding>
+                <element signature="e#0#90972#0" expanded="false" />
+                <element signature="imports" expanded="false" />
                 <element signature="docComment;class#Node#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
                 <element signature="class#Node#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
+                <element signature="e#20991#20992#0" expanded="false" />
+                <element signature="e#21042#21043#0" expanded="false" />
+                <element signature="e#22675#22676#0" expanded="false" />
+                <element signature="e#22703#22704#0" expanded="false" />
                 <element signature="docComment;method#setState#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
+                <element signature="e#22933#22934#0" expanded="false" />
+                <element signature="e#22965#22966#0" expanded="false" />
                 <element signature="method#enq#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
                 <element signature="method#addWaiter#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
                 <element signature="method#setHead#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
@@ -98,20 +107,40 @@
                 <element signature="method#setHeadAndPropagate#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
                 <element signature="method#cancelAcquire#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
                 <element signature="method#shouldParkAfterFailedAcquire#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
+                <element signature="e#32644#32645#0" expanded="false" />
+                <element signature="e#32694#32695#0" expanded="false" />
                 <element signature="method#acquireQueued#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
                 <element signature="method#doAcquireInterruptibly#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
                 <element signature="method#doAcquireNanos#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
                 <element signature="method#doAcquireShared#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
+                <element signature="e#41392#41393#0" expanded="false" />
+                <element signature="e#41449#41450#0" expanded="false" />
+                <element signature="e#42562#42563#0" expanded="false" />
+                <element signature="e#42619#42620#0" expanded="false" />
+                <element signature="e#44444#44445#0" expanded="false" />
+                <element signature="e#44501#44502#0" expanded="false" />
+                <element signature="e#45599#45600#0" expanded="false" />
+                <element signature="e#45656#45657#0" expanded="false" />
+                <element signature="e#46422#46423#0" expanded="false" />
+                <element signature="e#46479#46480#0" expanded="false" />
+                <element signature="e#53988#53989#0" expanded="false" />
+                <element signature="e#54023#54024#0" expanded="false" />
+                <element signature="e#54379#54380#0" expanded="false" />
+                <element signature="e#54414#54415#0" expanded="false" />
+                <element signature="e#67632#67633#0" expanded="false" />
+                <element signature="e#67680#67681#0" expanded="false" />
+                <element signature="e#85889#85890#0" expanded="false" />
+                <element signature="e#85959#85960#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            <state relative-caret-position="528">
+              <caret line="25" column="25" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="25" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,7 +153,23 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="780">
               <caret line="75" column="19" lean-forward="false" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
-              <folding />
+              <folding>
+                <element signature="e#0#11950#0" expanded="false" />
+                <element signature="e#2871#2872#0" expanded="false" />
+                <element signature="e#2896#2897#0" expanded="false" />
+                <element signature="e#3272#3273#0" expanded="false" />
+                <element signature="e#3303#3304#0" expanded="false" />
+                <element signature="e#4161#4162#0" expanded="false" />
+                <element signature="e#4211#4212#0" expanded="false" />
+                <element signature="e#10229#10230#0" expanded="false" />
+                <element signature="e#10270#10271#0" expanded="false" />
+                <element signature="e#10337#10338#0" expanded="false" />
+                <element signature="e#10389#10390#0" expanded="false" />
+                <element signature="e#10445#10446#0" expanded="false" />
+                <element signature="e#10490#10491#0" expanded="false" />
+                <element signature="e#10561#10562#0" expanded="false" />
+                <element signature="e#10617#10618#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,7 +179,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1605">
               <caret line="140" column="24" lean-forward="false" selection-start-line="140" selection-start-column="24" selection-end-line="140" selection-end-column="24" />
-              <folding />
+              <folding>
+                <element signature="e#0#15121#0" expanded="false" />
+                <element signature="e#10983#10984#0" expanded="false" />
+                <element signature="e#11021#11022#0" expanded="false" />
+                <element signature="e#13575#13576#0" expanded="false" />
+                <element signature="e#13618#13619#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,7 +195,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2160">
               <caret line="178" column="17" lean-forward="false" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="17" />
-              <folding />
+              <folding>
+                <element signature="e#0#20918#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,46 +209,118 @@
             <state relative-caret-position="840">
               <caret line="701" column="24" lean-forward="false" selection-start-line="701" selection-start-column="24" selection-end-line="701" selection-end-column="24" />
               <folding>
+                <element signature="e#0#58798#0" expanded="false" />
+                <element signature="imports" expanded="false" />
                 <element signature="docComment;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#7757#7758#0" expanded="false" />
+                <element signature="e#7784#7785#0" expanded="false" />
                 <element signature="class#Sync#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#10079#10080#0" expanded="false" />
+                <element signature="e#10135#10136#0" expanded="false" />
+                <element signature="e#23514#23515#0" expanded="false" />
+                <element signature="e#23566#23567#0" expanded="false" />
+                <element signature="e#23855#23856#0" expanded="false" />
+                <element signature="e#23909#23910#0" expanded="false" />
+                <element signature="e#23950#23951#0" expanded="false" />
+                <element signature="e#24012#24013#0" expanded="false" />
+                <element signature="e#24053#24054#0" expanded="false" />
+                <element signature="e#24136#24137#0" expanded="false" />
                 <element signature="class#NonfairSync#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#25317#25318#0" expanded="false" />
+                <element signature="e#25381#25382#0" expanded="false" />
                 <element signature="class#FairSync#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#26141#26142#0" expanded="false" />
+                <element signature="e#26195#26196#0" expanded="false" />
+                <element signature="e#26239#26240#0" expanded="false" />
+                <element signature="e#26293#26294#0" expanded="false" />
                 <element signature="docComment;method#ReadLock#0;class#ReadLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#26818#26819#0" expanded="false" />
+                <element signature="e#26858#26859#0" expanded="false" />
+                <element signature="e#27298#27299#0" expanded="false" />
+                <element signature="e#27343#27344#0" expanded="false" />
                 <element signature="docComment;method#lockInterruptibly#0;class#ReadLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
                 <element signature="docComment;method#tryLock#0;class#ReadLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#30177#30178#0" expanded="false" />
+                <element signature="e#30226#30227#0" expanded="false" />
                 <element signature="docComment;method#tryLock#1;class#ReadLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
                 <element signature="docComment;method#unlock#0;class#ReadLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#33491#33492#0" expanded="false" />
+                <element signature="e#33536#33537#0" expanded="false" />
                 <element signature="docComment;method#newCondition#0;class#ReadLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#33790#33791#0" expanded="false" />
+                <element signature="e#33855#33856#0" expanded="false" />
                 <element signature="docComment;method#toString#0;class#ReadLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
                 <element signature="docComment;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
                 <element signature="docComment;method#WriteLock#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#34878#34879#0" expanded="false" />
+                <element signature="e#34918#34919#0" expanded="false" />
                 <element signature="docComment;method#lock#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#35675#35676#0" expanded="false" />
+                <element signature="e#35714#35715#0" expanded="false" />
                 <element signature="docComment;method#lockInterruptibly#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
                 <element signature="docComment;method#tryLock#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#39277#39278#0" expanded="false" />
+                <element signature="e#39327#39328#0" expanded="false" />
                 <element signature="docComment;method#tryLock#1;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
                 <element signature="docComment;method#unlock#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#43413#43414#0" expanded="false" />
+                <element signature="e#43452#43453#0" expanded="false" />
                 <element signature="docComment;method#newCondition#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#45539#45540#0" expanded="false" />
+                <element signature="e#45589#45590#0" expanded="false" />
                 <element signature="docComment;method#toString#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
                 <element signature="docComment;method#isHeldByCurrentThread#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#46661#46662#0" expanded="false" />
+                <element signature="e#46716#46717#0" expanded="false" />
                 <element signature="docComment;method#getHoldCount#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#47240#47241#0" expanded="false" />
+                <element signature="e#47295#47296#0" expanded="false" />
                 <element signature="docComment;method#isFair#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#47523#47524#0" expanded="false" />
+                <element signature="e#47570#47571#0" expanded="false" />
                 <element signature="docComment;method#getOwner#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#48226#48227#0" expanded="false" />
+                <element signature="e#48264#48265#0" expanded="false" />
                 <element signature="docComment;method#getReadLockCount#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#48529#48530#0" expanded="false" />
+                <element signature="e#48575#48576#0" expanded="false" />
                 <element signature="docComment;method#isWriteLocked#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#48905#48906#0" expanded="false" />
+                <element signature="e#48948#48949#0" expanded="false" />
                 <element signature="docComment;method#isWriteLockedByCurrentThread#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#49202#49203#0" expanded="false" />
+                <element signature="e#49249#49250#0" expanded="false" />
                 <element signature="docComment;method#getWriteHoldCount#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#49662#49663#0" expanded="false" />
+                <element signature="e#49709#49710#0" expanded="false" />
                 <element signature="docComment;method#getReadHoldCount#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#50136#50137#0" expanded="false" />
+                <element signature="e#50182#50183#0" expanded="false" />
                 <element signature="docComment;method#getQueuedWriterThreads#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#50780#50781#0" expanded="false" />
+                <element signature="e#50835#50836#0" expanded="false" />
                 <element signature="docComment;method#getQueuedReaderThreads#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#51432#51433#0" expanded="false" />
+                <element signature="e#51484#51485#0" expanded="false" />
                 <element signature="docComment;method#hasQueuedThreads#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#51987#51988#0" expanded="false" />
+                <element signature="e#52033#52034#0" expanded="false" />
                 <element signature="docComment;method#hasQueuedThread#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#52623#52624#0" expanded="false" />
+                <element signature="e#52667#52668#0" expanded="false" />
                 <element signature="docComment;method#getQueueLength#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#53176#53177#0" expanded="false" />
+                <element signature="e#53220#53221#0" expanded="false" />
                 <element signature="docComment;method#getQueuedThreads#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#53821#53822#0" expanded="false" />
+                <element signature="e#53867#53868#0" expanded="false" />
                 <element signature="docComment;method#hasWaiters#0;class#ReentrantReadWriteLock#0" expanded="false" />
                 <element signature="docComment;method#getWaitQueueLength#0;class#ReentrantReadWriteLock#0" expanded="false" />
                 <element signature="docComment;method#getWaitingThreads#0;class#ReentrantReadWriteLock#0" expanded="false" />
                 <element signature="docComment;method#toString#0;class#ReentrantReadWriteLock#0" expanded="false" />
                 <element signature="docComment;method#getThreadId#0;class#ReentrantReadWriteLock#0" expanded="false" />
+                <element signature="e#58319#58320#0" expanded="false" />
+                <element signature="e#58384#58385#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -205,7 +331,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1275">
               <caret line="118" column="17" lean-forward="false" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
-              <folding />
+              <folding>
+                <element signature="e#0#4966#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -223,7 +351,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>loadClass</find>
       <find>T</find>
       <find>loadClass(</find>
       <find>loadClass(String</find>
@@ -253,6 +380,7 @@
       <find>tryAcquire(</find>
       <find>Condition</find>
       <find>newCondition</find>
+      <find>result</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -325,9 +453,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -518,6 +643,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1216,11 +1344,12 @@
       <workItem from="1503710056832" duration="595000" />
       <workItem from="1504498890070" duration="355000" />
       <workItem from="1505185022701" duration="132000" />
+      <workItem from="1505737083998" duration="2445000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142535000" />
+    <option name="totallyTimeSpent" value="144980000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1253,7 +1382,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31111112" sideWeight="0.4800995" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1621,7 +1750,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1605">
           <caret line="140" column="24" lean-forward="false" selection-start-line="140" selection-start-column="24" selection-end-line="140" selection-end-column="24" />
-          <folding />
+          <folding>
+            <element signature="e#0#15121#0" expanded="false" />
+            <element signature="e#10983#10984#0" expanded="false" />
+            <element signature="e#11021#11022#0" expanded="false" />
+            <element signature="e#13575#13576#0" expanded="false" />
+            <element signature="e#13618#13619#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1637,9 +1772,17 @@
         <state relative-caret-position="2970">
           <caret line="235" column="6" lean-forward="false" selection-start-line="235" selection-start-column="6" selection-end-line="235" selection-end-column="6" />
           <folding>
+            <element signature="e#0#90972#0" expanded="false" />
+            <element signature="imports" expanded="false" />
             <element signature="docComment;class#Node#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
             <element signature="class#Node#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
+            <element signature="e#20991#20992#0" expanded="false" />
+            <element signature="e#21042#21043#0" expanded="false" />
+            <element signature="e#22675#22676#0" expanded="false" />
+            <element signature="e#22703#22704#0" expanded="false" />
             <element signature="docComment;method#setState#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
+            <element signature="e#22933#22934#0" expanded="false" />
+            <element signature="e#22965#22966#0" expanded="false" />
             <element signature="method#enq#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
             <element signature="method#addWaiter#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
             <element signature="method#setHead#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
@@ -1648,10 +1791,30 @@
             <element signature="method#setHeadAndPropagate#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
             <element signature="method#cancelAcquire#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
             <element signature="method#shouldParkAfterFailedAcquire#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
+            <element signature="e#32644#32645#0" expanded="false" />
+            <element signature="e#32694#32695#0" expanded="false" />
             <element signature="method#acquireQueued#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
             <element signature="method#doAcquireInterruptibly#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
             <element signature="method#doAcquireNanos#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
             <element signature="method#doAcquireShared#0;class#AbstractQueuedSynchronizer#0" expanded="false" />
+            <element signature="e#41392#41393#0" expanded="false" />
+            <element signature="e#41449#41450#0" expanded="false" />
+            <element signature="e#42562#42563#0" expanded="false" />
+            <element signature="e#42619#42620#0" expanded="false" />
+            <element signature="e#44444#44445#0" expanded="false" />
+            <element signature="e#44501#44502#0" expanded="false" />
+            <element signature="e#45599#45600#0" expanded="false" />
+            <element signature="e#45656#45657#0" expanded="false" />
+            <element signature="e#46422#46423#0" expanded="false" />
+            <element signature="e#46479#46480#0" expanded="false" />
+            <element signature="e#53988#53989#0" expanded="false" />
+            <element signature="e#54023#54024#0" expanded="false" />
+            <element signature="e#54379#54380#0" expanded="false" />
+            <element signature="e#54414#54415#0" expanded="false" />
+            <element signature="e#67632#67633#0" expanded="false" />
+            <element signature="e#67680#67681#0" expanded="false" />
+            <element signature="e#85889#85890#0" expanded="false" />
+            <element signature="e#85959#85960#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1660,7 +1823,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2160">
           <caret line="178" column="17" lean-forward="false" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="e#0#20918#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1669,6 +1835,7 @@
         <state relative-caret-position="390">
           <caret line="357" column="0" lean-forward="false" selection-start-line="357" selection-start-column="0" selection-end-line="357" selection-end-column="0" />
           <folding>
+            <element signature="e#0#14202#0" expanded="false" />
             <element signature="docComment;class#Lock#0" expanded="false" />
             <element signature="docComment;method#lock#0;class#Lock#0" expanded="false" />
             <element signature="docComment;method#lockInterruptibly#0;class#Lock#0" expanded="false" />
@@ -1680,21 +1847,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="75" column="19" lean-forward="false" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
-          <folding />
+          <folding>
+            <element signature="e#0#11950#0" expanded="false" />
+            <element signature="e#2871#2872#0" expanded="false" />
+            <element signature="e#2896#2897#0" expanded="false" />
+            <element signature="e#3272#3273#0" expanded="false" />
+            <element signature="e#3303#3304#0" expanded="false" />
+            <element signature="e#4161#4162#0" expanded="false" />
+            <element signature="e#4211#4212#0" expanded="false" />
+            <element signature="e#10229#10230#0" expanded="false" />
+            <element signature="e#10270#10271#0" expanded="false" />
+            <element signature="e#10337#10338#0" expanded="false" />
+            <element signature="e#10389#10390#0" expanded="false" />
+            <element signature="e#10445#10446#0" expanded="false" />
+            <element signature="e#10490#10491#0" expanded="false" />
+            <element signature="e#10561#10562#0" expanded="false" />
+            <element signature="e#10617#10618#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1702,7 +1875,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1275">
           <caret line="118" column="17" lean-forward="false" selection-start-line="118" selection-start-column="17" selection-end-line="118" selection-end-column="17" />
-          <folding />
+          <folding>
+            <element signature="e#0#4966#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1711,46 +1886,118 @@
         <state relative-caret-position="840">
           <caret line="701" column="24" lean-forward="false" selection-start-line="701" selection-start-column="24" selection-end-line="701" selection-end-column="24" />
           <folding>
+            <element signature="e#0#58798#0" expanded="false" />
+            <element signature="imports" expanded="false" />
             <element signature="docComment;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#7757#7758#0" expanded="false" />
+            <element signature="e#7784#7785#0" expanded="false" />
             <element signature="class#Sync#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#10079#10080#0" expanded="false" />
+            <element signature="e#10135#10136#0" expanded="false" />
+            <element signature="e#23514#23515#0" expanded="false" />
+            <element signature="e#23566#23567#0" expanded="false" />
+            <element signature="e#23855#23856#0" expanded="false" />
+            <element signature="e#23909#23910#0" expanded="false" />
+            <element signature="e#23950#23951#0" expanded="false" />
+            <element signature="e#24012#24013#0" expanded="false" />
+            <element signature="e#24053#24054#0" expanded="false" />
+            <element signature="e#24136#24137#0" expanded="false" />
             <element signature="class#NonfairSync#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#25317#25318#0" expanded="false" />
+            <element signature="e#25381#25382#0" expanded="false" />
             <element signature="class#FairSync#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#26141#26142#0" expanded="false" />
+            <element signature="e#26195#26196#0" expanded="false" />
+            <element signature="e#26239#26240#0" expanded="false" />
+            <element signature="e#26293#26294#0" expanded="false" />
             <element signature="docComment;method#ReadLock#0;class#ReadLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#26818#26819#0" expanded="false" />
+            <element signature="e#26858#26859#0" expanded="false" />
+            <element signature="e#27298#27299#0" expanded="false" />
+            <element signature="e#27343#27344#0" expanded="false" />
             <element signature="docComment;method#lockInterruptibly#0;class#ReadLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
             <element signature="docComment;method#tryLock#0;class#ReadLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#30177#30178#0" expanded="false" />
+            <element signature="e#30226#30227#0" expanded="false" />
             <element signature="docComment;method#tryLock#1;class#ReadLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
             <element signature="docComment;method#unlock#0;class#ReadLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#33491#33492#0" expanded="false" />
+            <element signature="e#33536#33537#0" expanded="false" />
             <element signature="docComment;method#newCondition#0;class#ReadLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#33790#33791#0" expanded="false" />
+            <element signature="e#33855#33856#0" expanded="false" />
             <element signature="docComment;method#toString#0;class#ReadLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
             <element signature="docComment;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
             <element signature="docComment;method#WriteLock#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#34878#34879#0" expanded="false" />
+            <element signature="e#34918#34919#0" expanded="false" />
             <element signature="docComment;method#lock#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#35675#35676#0" expanded="false" />
+            <element signature="e#35714#35715#0" expanded="false" />
             <element signature="docComment;method#lockInterruptibly#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
             <element signature="docComment;method#tryLock#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#39277#39278#0" expanded="false" />
+            <element signature="e#39327#39328#0" expanded="false" />
             <element signature="docComment;method#tryLock#1;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
             <element signature="docComment;method#unlock#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#43413#43414#0" expanded="false" />
+            <element signature="e#43452#43453#0" expanded="false" />
             <element signature="docComment;method#newCondition#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#45539#45540#0" expanded="false" />
+            <element signature="e#45589#45590#0" expanded="false" />
             <element signature="docComment;method#toString#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
             <element signature="docComment;method#isHeldByCurrentThread#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#46661#46662#0" expanded="false" />
+            <element signature="e#46716#46717#0" expanded="false" />
             <element signature="docComment;method#getHoldCount#0;class#WriteLock#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#47240#47241#0" expanded="false" />
+            <element signature="e#47295#47296#0" expanded="false" />
             <element signature="docComment;method#isFair#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#47523#47524#0" expanded="false" />
+            <element signature="e#47570#47571#0" expanded="false" />
             <element signature="docComment;method#getOwner#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#48226#48227#0" expanded="false" />
+            <element signature="e#48264#48265#0" expanded="false" />
             <element signature="docComment;method#getReadLockCount#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#48529#48530#0" expanded="false" />
+            <element signature="e#48575#48576#0" expanded="false" />
             <element signature="docComment;method#isWriteLocked#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#48905#48906#0" expanded="false" />
+            <element signature="e#48948#48949#0" expanded="false" />
             <element signature="docComment;method#isWriteLockedByCurrentThread#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#49202#49203#0" expanded="false" />
+            <element signature="e#49249#49250#0" expanded="false" />
             <element signature="docComment;method#getWriteHoldCount#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#49662#49663#0" expanded="false" />
+            <element signature="e#49709#49710#0" expanded="false" />
             <element signature="docComment;method#getReadHoldCount#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#50136#50137#0" expanded="false" />
+            <element signature="e#50182#50183#0" expanded="false" />
             <element signature="docComment;method#getQueuedWriterThreads#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#50780#50781#0" expanded="false" />
+            <element signature="e#50835#50836#0" expanded="false" />
             <element signature="docComment;method#getQueuedReaderThreads#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#51432#51433#0" expanded="false" />
+            <element signature="e#51484#51485#0" expanded="false" />
             <element signature="docComment;method#hasQueuedThreads#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#51987#51988#0" expanded="false" />
+            <element signature="e#52033#52034#0" expanded="false" />
             <element signature="docComment;method#hasQueuedThread#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#52623#52624#0" expanded="false" />
+            <element signature="e#52667#52668#0" expanded="false" />
             <element signature="docComment;method#getQueueLength#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#53176#53177#0" expanded="false" />
+            <element signature="e#53220#53221#0" expanded="false" />
             <element signature="docComment;method#getQueuedThreads#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#53821#53822#0" expanded="false" />
+            <element signature="e#53867#53868#0" expanded="false" />
             <element signature="docComment;method#hasWaiters#0;class#ReentrantReadWriteLock#0" expanded="false" />
             <element signature="docComment;method#getWaitQueueLength#0;class#ReentrantReadWriteLock#0" expanded="false" />
             <element signature="docComment;method#getWaitingThreads#0;class#ReentrantReadWriteLock#0" expanded="false" />
             <element signature="docComment;method#toString#0;class#ReentrantReadWriteLock#0" expanded="false" />
             <element signature="docComment;method#getThreadId#0;class#ReentrantReadWriteLock#0" expanded="false" />
+            <element signature="e#58319#58320#0" expanded="false" />
+            <element signature="e#58384#58385#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1782,6 +2029,16 @@
             <element signature="docComment;method#getWaitQueueLength#0;class#ReentrantLock#0" expanded="false" />
             <element signature="docComment;method#getWaitingThreads#0;class#ReentrantLock#0" expanded="false" />
             <element signature="docComment;method#toString#0;class#ReentrantLock#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
